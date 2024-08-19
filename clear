@@ -1,0 +1,23 @@
+[33mcommit fd9d68d5862253945d3d6e7bbc875723331aba4f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Vishal Bhandary <vishalswasthi@gmail.com>
+Date:   Mon Aug 19 08:49:11 2024 +0530
+
+    head has been added with meta files
+
+[33mcommit 0689d46e6f03af8533b2258fe31f4aab49d569e9[m
+Author: Vishal Bhandary <vishalswasthi@gmail.com>
+Date:   Mon Aug 19 08:41:32 2024 +0530
+
+    addded head and body tags
+
+[33mcommit aa29a8d9107a83ff4c1f67eb2b4a2207dd394a81[m
+Author: Vishal Bhandary <vishalswasthi@gmail.com>
+Date:   Sun Aug 18 23:01:42 2024 +0530
+
+    going to commit with bare minimum html tags
+
+[33mcommit 79028136e69d84d82c5699b455f2ad73dad09da4[m
+Author: Vishal Bhandary <vishalswasthi@gmail.com>
+Date:   Sun Aug 18 22:53:08 2024 +0530
+
+    initial version
